@@ -1,5 +1,4 @@
-# FIXED
-# offsetfinder
+# Offsetfinder
 A simple tool to find offsets needed in 32bit jailbreaks. Feel free to contribute.
 
 ### How to use
